@@ -197,7 +197,7 @@ body > * {
     padding-right: 1em;
     padding-bottom: 1em; */
     padding: 0 1em 1em 1em;
-    max-height: 30vh;
+    max-height: 40vh;
 }
 .albums__img {
     display: flex;
